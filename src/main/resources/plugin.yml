@@ -1,0 +1,7 @@
+main: net.gridcraft.economy.Economy
+version: 0.0.1
+name: economy-gridcraft
+
+commands:
+  econ:
+    usage: "/econ ..."
